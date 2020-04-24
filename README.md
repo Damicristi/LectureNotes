@@ -1,3 +1,5 @@
+<i>I'm collecting the available lectures notes especially in Theoretical Physics in majority, and on some of my interested topics. If you find lectures notes on the topics given below then you can either do [pull request](https://github.com/Damicristi/LectureNotes/pulls) or shared it [here](https://github.com/Damicristi/LectureNotes/issues/1).</i>
+
 | Collections of Lecture Notes|                 
 | :---------------------------|
 | [Classical Mechanics](#0) |
