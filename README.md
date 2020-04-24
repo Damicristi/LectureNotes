@@ -59,22 +59,21 @@
 
 <h5 id="1">Groups and Lie Groups</h5>
 
-
-
-[🔝](#)
-
-<h5 id="1"></h5>
+[physics751: Group Theory (for Physicists), (Christoph Ludeling)](http://www.th.physik.uni-bonn.de/nilles/people/luedeling/grouptheory/data/grouptheorynotes.pdf)
 
 [🔝](#)
 
-<h5 id="1"></h5>
+<h5 id="1">Quantum Information Theory</h5>
 
 [🔝](#)
 
-<h5 id="1"></h5>
+<h5 id="1">Topology</h5>
 
 [🔝](#)
 
-<h5 id="1"></h5>
+<h5 id="1">Quantum Optics</h5>
 
 [🔝](#)
+
+
+<p style="text-align: center;"> Updated on 24 April 2020</p>
