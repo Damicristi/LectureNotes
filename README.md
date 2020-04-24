@@ -1,8 +1,16 @@
-| Collections |                 
-| :-----------|
-| [Classical Mechanics](#0)|
+| Collections of Lecture Notes|                 
+| :---------------------------|
+| [Classical Mechanics](#0) |
 | [Mathematical Methods](#1) |
-
+| [Quantum Mechanics](#2) |
+| [Condensed Matter](#3) |
+| [Statistical Physics](#4) |
+| [Quantum Field Theory](#5) |
+| [Gravitation and Cosmology](#6) |
+| [Groups and Lie Groups](#7) |
+| [Quantum Information Theory](#8) |
+| [Topology](#9) |
+| [Quantum Optics](#10) |
 
 <h5 id="0">Classical Mechanics</h5>
 
@@ -25,14 +33,14 @@
 
 [🔝](#)
 
-<h5 id="1">Condensed Matter</h5>
+<h5 id="3">Condensed Matter</h5>
 
 [Lectures on Solid State Physics, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/aqm/solidstate.pdf)\
 [Lectures on the Quantum Hall Effect, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/qhe/qhe.pdf)
 
 [🔝](#)
 
-<h5 id="1">Statistical Physics</h5>
+<h5 id="4">Statistical Physics</h5>
 
 [Lectures on Statistical Physics, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf)\
 [Lectures on Kinetic Theory (Non-equilibrium Statistical Physics), (David Tong)](http://www.damtp.cam.ac.uk/user/tong/kintheory/kt.pdf)\
@@ -40,7 +48,7 @@
 
 [🔝](#)
 
-<h5 id="1">Quantum Field Theory</h5>
+<h5 id="5">Quantum Field Theory</h5>
 
 [(Video) Lectures on Quantum Field Theory, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/qftvids.html)\
 [Lectures on Quantum Field Theory, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/qft/qft.pdf)\
@@ -49,7 +57,7 @@
 
 [🔝](#)
 
-<h5 id="1">Gravitation and Cosmology</h5>
+<h5 id="6">Gravitation and Cosmology</h5>
 
 [Lectures on General Relativity, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/gr/gr.pdf)\
 [Lectures on Cosmology, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/cosmo/cosmo.pdf)\
@@ -57,21 +65,21 @@
 
 [🔝](#)
 
-<h5 id="1">Groups and Lie Groups</h5>
+<h5 id="7">Groups and Lie Groups</h5>
 
 [physics751: Group Theory (for Physicists), (Christoph Ludeling)](http://www.th.physik.uni-bonn.de/nilles/people/luedeling/grouptheory/data/grouptheorynotes.pdf)
 
 [🔝](#)
 
-<h5 id="1">Quantum Information Theory</h5>
+<h5 id="8">Quantum Information Theory</h5>
 
 [🔝](#)
 
-<h5 id="1">Topology</h5>
+<h5 id="9">Topology</h5>
 
 [🔝](#)
 
-<h5 id="1">Quantum Optics</h5>
+<h5 id="10">Quantum Optics</h5>
 
 [🔝](#)
 
