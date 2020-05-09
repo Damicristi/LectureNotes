@@ -48,6 +48,7 @@
 [Lectures on Statistical Physics, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf)<br>
 [Lectures on Kinetic Theory (Non-equilibrium Statistical Physics), (David Tong)](http://www.damtp.cam.ac.uk/user/tong/kintheory/kt.pdf)<br>
 [Lectures on Statistical Field Theory, (David Tong)](http://www.damtp.cam.ac.uk/user/tong/sft/sft.pdf)
+[Non-equilibrium statistical mechanics, (Gunnar Pruessner)](https://wwwf.imperial.ac.uk/~pruess/publications/noneq.pdf)
 
 [🔝](#)
 
